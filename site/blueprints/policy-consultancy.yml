@@ -1,0 +1,18 @@
+files: false
+
+preview: parent
+
+pages: project
+
+icon: university
+
+options:
+  preview: false
+  template: false
+  url: false
+  
+fields:
+  
+  introduction:
+    label: Introduction
+    type: textarea

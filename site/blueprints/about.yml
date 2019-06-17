@@ -1,0 +1,18 @@
+title: About
+
+files: false
+
+options: 
+  template: false  
+  status: false
+  preview: false
+  
+fields:
+  title:
+    label: Title
+    type: title
+    
+  text:
+    label: Text
+    type: textarea
+    size: large

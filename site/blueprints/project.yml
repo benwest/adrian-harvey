@@ -1,0 +1,23 @@
+title: Project
+
+files:
+  sortable: true
+
+pages: false
+
+options:
+  url: false
+  preview: false
+
+fields:
+  title:
+    label: Title
+    type:  text
+    
+  introduction:
+    label: Introduction
+    type: textarea
+
+  text:
+    label: Text
+    type:  textarea

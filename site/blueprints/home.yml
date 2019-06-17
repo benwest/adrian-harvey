@@ -1,0 +1,10 @@
+title: Home
+
+pages: false
+
+fields:
+
+  intro:
+    label: Intro
+    type:  text
+    size:  small

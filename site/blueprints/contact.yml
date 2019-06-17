@@ -1,0 +1,18 @@
+title: Contact
+
+pages: false
+
+options: 
+  delete: false
+  status: false
+
+fields: 
+  title:
+    label: Title
+    type: title
+  
+
+  
+  text:
+    label: Text
+    type: textarea

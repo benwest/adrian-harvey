@@ -1,0 +1,51 @@
+Title: Contact
+
+----
+
+Text: 
+
+Want to get in touch?  Best to email me at 
+(email: ade.harvey1@gmail.com text: ade.harvey1@gmail.com)
+
+Or find me on (link: https://twitter.com/ade_harvey text: Twitter)
+
+For enquiries about my books contact my publisher (link: http://urbanepublications.com/ text: Urbane Publications).
+
+----
+
+Intro: 
+
+----
+
+Contactoptions: 
+
+- 
+  title: Contact
+  text: >
+    Feel free to drop us a line if you have
+    any questions.
+  url: mailto:support@getkirby.com
+  linktext: Write an email
+  icon: contact.svg
+- 
+  title: Forum
+  text: >
+    Join the Kirby community and connect
+    with others.
+  url: https://forum.getkirby.com/
+  linktext: Visit Kirby’s forum
+  icon: forum.svg
+- 
+  title: GitHub
+  text: >
+    Report Kirby-related issues directly on
+    GitHub.
+  url: https://github.com/getkirby
+  linktext: Kirby on GitHub
+  icon: github.svg
+- 
+  title: Docs
+  text: "Check out Kirby's detailed tutorials and instructions."
+  url: https://getkirby.com/docs
+  linktext: Documentation
+  icon: docs.svg

@@ -1,0 +1,15 @@
+title: Blog
+
+files: false
+
+pages:
+  template: article
+  sort: date flip
+  num: date
+
+options:
+  preview: false
+  template: false
+  status: false
+
+icon: newspaper-o

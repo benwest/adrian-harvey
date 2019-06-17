@@ -1,0 +1,12 @@
+files: false
+
+preview: parent
+
+pages: project
+
+icon: book
+
+options:
+  preview: false
+  template: false
+  url: false

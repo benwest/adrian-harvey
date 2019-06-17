@@ -1,0 +1,10 @@
+title: Page
+
+preview: parent
+
+files: false
+
+options:
+  preview: false
+  template: false
+  url: false
